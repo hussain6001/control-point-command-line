@@ -1,0 +1,8 @@
+DLNA - command line control point
+
+Features:
+
+* view available dlna renderer and server
+* browse dlna server
+* select and play the content in dlna renderer
+* playback controls
